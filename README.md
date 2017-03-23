@@ -1,6 +1,6 @@
 # spring-ember-aaron-backend
 
-This application mainly focus on how to connect Spring with Ember. Spring on backend and EmberJs on the frontend. You are able to show all user in the list, add, edit, and delete user. Using EmberJs framework to create UI and Spring for backend RESTful Web Services.
+This application mainly focus on how to connect Spring with Ember. Spring is used on the backend to create RESTful Web Services GET, POST, PATCH, and DELETE operations. 
 
 ## Prerequisites
 
